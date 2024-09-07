@@ -1,3 +1,5 @@
+ipykernel 
+jupyter
 openai 
 langchain
 langchain-openai
@@ -11,3 +13,5 @@ tiktoken
 pinecone-client 
 scikit-learn
 ruff
+langchain_community
+git+https://github.com/openai/whisper.git
